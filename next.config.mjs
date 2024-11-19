@@ -1,7 +1,7 @@
 // next.config.mjs
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  distDir: 'public',
+  distDir: 'out',
 };
 
 export default nextConfig;
